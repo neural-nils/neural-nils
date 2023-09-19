@@ -10,6 +10,7 @@ Some of my favorite topics:
  - neuroscience
  - machine learning to understand neuroscience / drug discovery
  - alphafold
+ - complexity of biological systems
 
 I am also very interested in / do some hobbying in: 
  - decentralized systems
