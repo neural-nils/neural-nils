@@ -1,6 +1,6 @@
 ## neural-nils
 
-I am a neuroscientist, genomics scientist/bioinformatician and ML practitioner.
+I am a neuroscientist, genomics scientist/bioinformatician and ML enthusiast.
 
 I am passionate about the intersection, where biology/biomedical science and computer science meet.
 
